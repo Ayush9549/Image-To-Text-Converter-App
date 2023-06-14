@@ -1,0 +1,9 @@
+.copybtn
+{
+  display: none;
+}
+
+.text_container:hover .copybtn
+{
+  display: flex;
+}
